@@ -1,9 +1,8 @@
 const btn = document.querySelector(".talk");
 const content = document.querySelector(".content");
 const greetings = [
-  `I'm good you little piece of shit`,
-  `Go study and don't waste your time`,
-  `You're still here? Go study!`,
+  `I'm good how are you?`,
+  `What a lovely day!`,
 ];
 const SpeechRecognition =
   window.speechRecognition || window.webkitSpeechRecognition;
